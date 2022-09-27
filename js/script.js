@@ -734,10 +734,7 @@ function func() {
 	document.getElementById("result").innerHTML = result;
 }
 
-
-
-
-
+// ================================================================
 
 
 
